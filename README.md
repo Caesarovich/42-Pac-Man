@@ -6,8 +6,8 @@
   <a href="https://www.python.org/">
     <img src="https://img.shields.io/badge/Python-3.14-3776AB?logo=python&logoColor=white" alt="Python 3.14">
   </a>
-  <a href="https://github.com/Caesarovich/Pac-Man/actions/workflows/python-app.yml">
-    <img src="https://github.com/Caesarovich/Pac-Man/actions/workflows/python-app.yml/badge.svg" alt="Quality checks">
+  <a href="https://github.com/Caesarovich/42-Pac-Man/actions/workflows/ci.yml">
+    <img src="https://github.com/Caesarovich/42-Pac-Man/actions/workflows/ci.yml/badge.svg" alt="Quality checks">
   </a>
 </p>
 
