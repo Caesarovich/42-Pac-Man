@@ -624,8 +624,6 @@ Everyday we disscussed about the tasks we were working one, the different challe
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
-![Stats](docs/commit_statistics.png)
-
 You can find these "Project management proofs" under the `docs` directory, including the GitHub Projects board screenshot, the Kanban board screenshot, and the commit statistics graph.
 
 ## Publishing
