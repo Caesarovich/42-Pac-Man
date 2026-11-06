@@ -1,0 +1,12 @@
+log_level: INFO
+assets:
+  entities_assets_config: entities_assets_config.yaml
+  maze_assets_config: maze_assets_config.yaml
+engine:
+  virtual_screen_dimensions: 
+    x: 1280
+    y: 1024
+  title: Pac-Man
+  fps_limit: 120
+  show_fps: false
+

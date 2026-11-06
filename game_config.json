@@ -1,0 +1,45 @@
+# PACMAN GAME PARAMETERS CONFIG FILE
+# yes, this json file accept comments
+
+{
+# Timers
+
+  "ready_check_timer": 1.0,
+  "game_timer": 120.0,
+  "pacman_death_timer": 3.0,
+  "end_level_timer": 3.0,
+
+# Level settings
+  "max_levels": 10,
+  "levels": [
+    {
+      "width": 9,
+      "height": 9,
+      "seed": 42
+    }
+  ],
+
+# Game design parameters
+  "lives": 3,
+  "points_per_pacgum": 10,
+  "points_per_super_pacgum": 50,
+  "points_per_ghost": 200,
+  "pacman_speed_boost_per_level": 0.04,
+  "ghosts_speed_boost_per_level": 0.06,
+
+# Entities speed
+  "ghost_base_speed": 2700.0,
+  "pacman_base_speed": 3200.0,
+
+# Collision box parameters
+  "ghost_collision_box_scale": 0.6,
+  "pacman_collision_box_scale": 0.6,
+
+# Ghost state timers
+  "frightened_time": 9.0,
+  "flash_time": 3.0,
+
+# Boost parameters
+  "boost_spawn_chance": 0.05,
+  "boost_duration": 20
+}

@@ -1,0 +1,37 @@
+[project]
+name = "pac-man"
+version = "0.1.0"
+description = "The famous arcade game Pac-man!"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "mazegenerator",
+    "pydantic>=2.14.2",
+    "pydantic-settings>=2.16.2",
+    "pyyaml>=6.0.3",
+    "raylib_sdl>=6.2.0.0",
+]
+
+[dependency-groups]
+dev = [
+    "pre-commit>=4.7.0",
+    "pyinstaller>=6.22.3",
+    "pytest>=9.2.0",
+    "ruff>=0.17.3",
+    "ty>=0.0.97",
+    "types-pyyaml>=6.0.12.20260518",
+]
+
+[project.scripts]
+pac-man = "pac_man.main:main"
+
+[tool.uv]
+package = true
+
+[tool.uv.sources]
+mazegenerator = { path = "wheels/mazegenerator-2.0.2-py3-none-any.whl" }
+
+
+[tool.ruff.lint]
+extend-select = ["ANN", "PYI"]
+preview = true

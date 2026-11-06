@@ -1,0 +1,74 @@
+file_name: maze_assets_sprite_sheet.png
+sprite_width: 8
+sprite_height: 8
+padding_x: 1
+padding_y: 1
+sprites:
+  maze_wall_top:
+    frame: [10, 0]
+  maze_wall_bottom:
+    frame: [12, 0]
+  maze_wall_left:
+    frame: [3, 0]
+  maze_wall_right:
+    frame: [2, 0]
+  maze_corner_top_left:
+    frame: [1, 0]
+  maze_corner_top_right:
+    frame: [0, 0]
+  maze_corner_bottom_left:
+    frame: [5, 0]
+  maze_corner_bottom_right:
+    frame: [4, 0]
+  outer_cell_corner_horizontal_top_left:
+    frame: [10, 2]
+  outer_cell_corner_horizontal_top_right:
+    frame: [11, 2]
+  outer_cell_corner_horizontal_bottom_left:
+    frame: [13, 1]
+  outer_cell_corner_horizontal_bottom_right:
+    frame: [12, 1]
+  outer_cell_corner_vertical_top_left:
+    frame: [9, 0]
+  outer_cell_corner_vertical_top_right:
+    frame: [8, 0]
+  outer_cell_corner_vertical_bottom_left:
+    frame: [7, 0]
+  outer_cell_corner_vertical_bottom_right:
+    frame: [6, 0]
+  inner_cell_top:
+    frame: [4, 1]
+  inner_cell_bottom:
+    frame: [14, 0]
+  inner_cell_left:
+    frame: [8, 1]
+  inner_cell_right:
+    frame: [9, 1]
+  inner_cell_corner_cell_top_left:
+    frame: [2, 2]
+  inner_cell_corner_cell_top_right:
+    frame: [3, 2]
+  inner_cell_corner_cell_bottom_left:
+    frame: [4, 2]
+  inner_cell_corner_cell_bottom_right:
+    frame: [5, 2]
+  inner_cell_corner_wall_top_left:
+    frame: [10, 1]
+  inner_cell_corner_wall_top_right:
+    frame: [11, 1]
+  inner_cell_corner_wall_bottom_left:
+    frame: [6, 2]
+  inner_cell_corner_wall_bottom_right:
+    frame: [7, 2]
+  pac_gum:
+    frame: [13, 2]
+  super_pac_gum:
+    frame: [15, 2]  
+  empty:
+    frame: [12, 2]
+
+
+
+
+
+

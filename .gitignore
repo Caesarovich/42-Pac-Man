@@ -1,0 +1,46 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+*.egg-info
+
+# Virtual environments
+.venv
+
+#.env
+.env
+
+# data
+data/
+datasets_public/
+moulinette_pkg/
+fly_in
+
+#log
+rag.log
+
+#subject
+en.subject.pdf
+
+#vscode
+.vscode
+
+# Devenv
+.devenv*
+devenv.local.nix
+devenv.local.yaml
+
+# direnv
+.direnv
+
+# log file
+pac_man.log
+
+# Highscores
+highscore.json
+
+# build
+build/
+dist/
+pac-man.spec
