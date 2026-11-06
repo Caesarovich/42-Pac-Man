@@ -37,6 +37,11 @@ between levels.
 
 ### Screenshots
 
+<img width="1330" height="1111" alt="Main Menu" src="https://github.com/user-attachments/assets/5f3f3039-ff74-4070-9395-df70c5951860" />
+
+<img width="1330" height="1111" alt="Gameplay" src="https://github.com/user-attachments/assets/bee5e5e6-a108-422d-bba9-76967bed998f" />
+
+<img width="1330" height="1111" alt="Game Over" src="https://github.com/user-attachments/assets/76f9d3ab-cf29-4383-b68f-e889c71e27a6" />
 
 ## Instructions
 
